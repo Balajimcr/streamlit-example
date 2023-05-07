@@ -6,8 +6,8 @@ import sqlite3
 import hashlib
 
 # Define client ID, secret, and scopes
-CLIENT_ID = '17822803127-7ekge5gvkmo26gfpoacbge1k0shcp0nn.apps.googleusercontent.com'
-CLIENT_SECRET = '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'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 SCOPES = ['https://www.googleapis.com/auth/userinfo.email']
 
 # Database management functions
